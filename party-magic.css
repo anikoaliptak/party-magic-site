@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  font-family: 'Finger Paint', cursive;
+  font-size: 1.8rem;
+  margin-left: 2rem;
+}
+
+.navigation-wrap {
+  font-size: 1.25rem;
+  margin-left: 2rem;
+}
+
+.jumbotron {
+  background-color: #fff;
+  color:  #5c8a8a;
+  margin-top: -30px;
+}
+
+.btn {
+  color: #fff;
+  margin-top: 2rem;
+}
+
+.btn:hover {
+   color:  #5c8a8a;
+}
+
+.table {
+  color: #5c8a8a;
+  margin-top: 2rem
+}
+.container {
+  color: #5c8a8a;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Finger Paint', cursive;
+  font-size: 2.25rem;
+  color: #d9a8a1;
+  padding: 1.75rem;
+}
+
+.container h2 {
+  text-align: center;
+  color: #d9a8a1;
+  margin-top: 2rem;
+  font-size: 2.25rem;
+}
+
+.container p {
+  color: #5c8a8a;
+  margin-top: 2rem;
+  text-align: left;
+}
+.footer {
+  background-color: #d9a8a1;
+  margin-top: 2rem;
+}
+
+.container a {
+  color: #fff;
+  padding: 1.25rem;
+}
